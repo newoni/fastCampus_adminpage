@@ -1,0 +1,26 @@
+com/example/study/StudyApplicationTests.java
+ com.example.study.StudyApplicationTests
+com/example/study/repository/OrderDetailRepositoryTest.java
+ com.example.study.repository.OrderDetailRepositoryTest
+com/example/study/repository/ItemRepositoryTest.java
+ com.example.study.repository.ItemRepositoryTest
+com/example/study/repository/UserRepositoryTest.java
+ com.example.study.repository.UserRepositoryTest
+com/example/study/sample/OrderDetailSample.java
+ com.example.study.sample.OrderDetailSample
+com/example/study/sample/UserSample.java
+ com.example.study.sample.UserSample
+com/example/study/repository/OrderGroupRepositoryTests.java
+ com.example.study.repository.OrderGroupRepositoryTests
+com/example/study/sample/PartnerSample.java
+ com.example.study.sample.PartnerSample
+com/example/study/repository/CategoryRepositoryTest.java
+ com.example.study.repository.CategoryRepositoryTest
+com/example/study/sample/ItemSample.java
+ com.example.study.sample.ItemSample
+com/example/study/repository/PartnerRepositoryTest.java
+ com.example.study.repository.PartnerRepositoryTest
+com/example/study/sample/CategorySample.java
+ com.example.study.sample.CategorySample
+com/example/study/repository/AdminUserRepositoryTest.java
+ com.example.study.repository.AdminUserRepositoryTest
